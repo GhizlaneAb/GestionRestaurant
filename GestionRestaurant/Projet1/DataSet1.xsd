@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="commande" msprop:Generator_RowEvHandlerName="commandeRowChangeEventHandler" msprop:Generator_RowDeletedName="commandeRowDeleted" msprop:Generator_RowDeletingName="commandeRowDeleting" msprop:Generator_RowEvArgName="commandeRowChangeEvent" msprop:Generator_TablePropName="commande" msprop:Generator_RowChangedName="commandeRowChanged" msprop:Generator_RowChangingName="commandeRowChanging" msprop:Generator_TableClassName="commandeDataTable" msprop:Generator_RowClassName="commandeRow" msprop:Generator_TableVarName="tablecommande" msprop:Generator_UserTableName="commande">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="num_com" msprop:Generator_ColumnPropNameInRow="num_com" msprop:Generator_ColumnPropNameInTable="num_comColumn" msprop:Generator_ColumnVarNameInTable="columnnum_com" msprop:Generator_UserColumnName="num_com" type="xs:string" />
+              <xs:element name="date_com" msprop:Generator_ColumnPropNameInRow="date_com" msprop:Generator_ColumnPropNameInTable="date_comColumn" msprop:Generator_ColumnVarNameInTable="columndate_com" msprop:Generator_UserColumnName="date_com" type="xs:string" minOccurs="0" />
+              <xs:element name="nb_pers" msprop:Generator_ColumnPropNameInRow="nb_pers" msprop:Generator_ColumnPropNameInTable="nb_persColumn" msprop:Generator_ColumnVarNameInTable="columnnb_pers" msprop:Generator_UserColumnName="nb_pers" type="xs:string" minOccurs="0" />
+              <xs:element name="heure_pay" msprop:Generator_ColumnPropNameInRow="heure_pay" msprop:Generator_ColumnPropNameInTable="heure_payColumn" msprop:Generator_ColumnVarNameInTable="columnheure_pay" msprop:Generator_UserColumnName="heure_pay" type="xs:string" minOccurs="0" />
+              <xs:element name="mode_pay" msprop:Generator_ColumnPropNameInRow="mode_pay" msprop:Generator_ColumnPropNameInTable="mode_payColumn" msprop:Generator_ColumnVarNameInTable="columnmode_pay" msprop:Generator_UserColumnName="mode_pay" type="xs:string" minOccurs="0" />
+              <xs:element name="num_tab" msprop:Generator_ColumnPropNameInRow="num_tab" msprop:Generator_ColumnPropNameInTable="num_tabColumn" msprop:Generator_ColumnVarNameInTable="columnnum_tab" msprop:Generator_UserColumnName="num_tab" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="contient" msprop:Generator_RowEvHandlerName="contientRowChangeEventHandler" msprop:Generator_RowDeletedName="contientRowDeleted" msprop:Generator_RowDeletingName="contientRowDeleting" msprop:Generator_RowEvArgName="contientRowChangeEvent" msprop:Generator_TablePropName="contient" msprop:Generator_RowChangedName="contientRowChanged" msprop:Generator_RowChangingName="contientRowChanging" msprop:Generator_TableClassName="contientDataTable" msprop:Generator_RowClassName="contientRow" msprop:Generator_TableVarName="tablecontient" msprop:Generator_UserTableName="contient">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_contient" msprop:Generator_ColumnPropNameInRow="id_contient" msprop:Generator_ColumnPropNameInTable="id_contientColumn" msprop:Generator_ColumnVarNameInTable="columnid_contient" msprop:Generator_UserColumnName="id_contient" type="xs:string" />
+              <xs:element name="qte" msprop:Generator_ColumnPropNameInRow="qte" msprop:Generator_ColumnPropNameInTable="qteColumn" msprop:Generator_ColumnVarNameInTable="columnqte" msprop:Generator_UserColumnName="qte" type="xs:string" minOccurs="0" />
+              <xs:element name="num_com" msprop:Generator_ColumnPropNameInRow="num_com" msprop:Generator_ColumnPropNameInTable="num_comColumn" msprop:Generator_ColumnVarNameInTable="columnnum_com" msprop:Generator_UserColumnName="num_com" type="xs:string" minOccurs="0" />
+              <xs:element name="code_plat" msprop:Generator_ColumnPropNameInRow="code_plat" msprop:Generator_ColumnPropNameInTable="code_platColumn" msprop:Generator_ColumnVarNameInTable="columncode_plat" msprop:Generator_UserColumnName="code_plat" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="plat" msprop:Generator_RowEvHandlerName="platRowChangeEventHandler" msprop:Generator_RowDeletedName="platRowDeleted" msprop:Generator_RowDeletingName="platRowDeleting" msprop:Generator_RowEvArgName="platRowChangeEvent" msprop:Generator_TablePropName="plat" msprop:Generator_RowChangedName="platRowChanged" msprop:Generator_RowChangingName="platRowChanging" msprop:Generator_TableClassName="platDataTable" msprop:Generator_RowClassName="platRow" msprop:Generator_TableVarName="tableplat" msprop:Generator_UserTableName="plat">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="code_plat" msprop:Generator_ColumnPropNameInRow="code_plat" msprop:Generator_ColumnPropNameInTable="code_platColumn" msprop:Generator_ColumnVarNameInTable="columncode_plat" msprop:Generator_UserColumnName="code_plat" type="xs:string" />
+              <xs:element name="libelle" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_ColumnVarNameInTable="columnlibelle" msprop:Generator_UserColumnName="libelle" type="xs:string" minOccurs="0" />
+              <xs:element name="type_plat" msprop:Generator_ColumnPropNameInRow="type_plat" msprop:Generator_ColumnPropNameInTable="type_platColumn" msprop:Generator_ColumnVarNameInTable="columntype_plat" msprop:Generator_UserColumnName="type_plat" type="xs:string" minOccurs="0" />
+              <xs:element name="prix" msprop:Generator_ColumnPropNameInRow="prix" msprop:Generator_ColumnPropNameInTable="prixColumn" msprop:Generator_ColumnVarNameInTable="columnprix" msprop:Generator_UserColumnName="prix" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:commande" />
+      <xs:field xpath="mstns:num_com" />
+    </xs:unique>
+    <xs:unique name="contient_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:contient" />
+      <xs:field xpath="mstns:id_contient" />
+    </xs:unique>
+    <xs:unique name="plat_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:plat" />
+      <xs:field xpath="mstns:code_plat" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="commande_contient" msdata:parent="commande" msdata:child="contient" msdata:parentkey="num_com" msdata:childkey="num_com" msprop:Generator_UserParentTable="commande" msprop:Generator_UserChildTable="contient" msprop:Generator_RelationVarName="relationcommande_contient" msprop:Generator_ChildPropName="GetcontientRows" msprop:Generator_ParentPropName="commandeRow" msprop:Generator_UserRelationName="commande_contient" />
+      <msdata:Relationship name="plat_contient" msdata:parent="plat" msdata:child="contient" msdata:parentkey="code_plat" msdata:childkey="code_plat" msprop:Generator_UserParentTable="plat" msprop:Generator_UserChildTable="contient" msprop:Generator_RelationVarName="relationplat_contient" msprop:Generator_UserRelationName="plat_contient" msprop:Generator_ChildPropName="GetcontientRows" msprop:Generator_ParentPropName="platRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,48 @@
+Serveur : Abegig Abegig  Numero de la table : 1 Date d'affectation : 6/6/2022 12:00:00 AM
+Serveur : Zebakh Zebakh  Numero de la table : 2 Date d'affectation : 6/6/2022 12:00:00 AM
+Serveur : Barrou Barrou  Numero de la table : 3 Date d'affectation : 6/6/2022 12:00:00 AM
+Serveur : Berbar Berbar  Numero de la table : 4 Date d'affectation : 6/6/2022 12:00:00 AM
+Serveur : Raghli Raghli  Numero de la table : 5 Date d'affectation : 6/6/2022 12:00:00 AM
+Serveur : Jazouli Jazouli  Numero de la table : 6 Date d'affectation : 6/6/2022 12:00:00 AM
+
+ ******************** 
+Serveur : Zebakh Zebakh  Numero de la table : 1  Date d'affectation : 6/11/2022 12:00:00 AM
+Serveur : Raghli Raghli  Numero de la table : 2  Date d'affectation : 6/11/2022 12:00:00 AM
+Serveur : Abegig Abegig  Numero de la table : 3  Date d'affectation : 6/11/2022 12:00:00 AM
+Serveur : Jazouli Jazouli  Numero de la table : 4  Date d'affectation : 6/11/2022 12:00:00 AM
+Serveur : Abegig Abegig  Numero de la table : 5  Date d'affectation : 6/11/2022 12:00:00 AM
+Serveur : Barrou Barrou  Numero de la table : 6  Date d'affectation : 6/11/2022 12:00:00 AM
+
+ ********************************************* 
+Serveur : Berbar Berbar  Numero de la table : 2  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Jazouli Jazouli  Numero de la table : 1  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Barrou Barrou  Numero de la table : 3  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Zebakh Zebakh  Numero de la table : 4  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Raghli Raghli  Numero de la table : 5  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Abegig Abegig  Numero de la table : 6  Date d'affectation : 6/12/2022 12:00:00 AM
+
+ ********************************************* 
+Serveur : Raghli Raghli  Numero de la table : 1  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Berbar Berbar  Numero de la table : 2  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Zebakh Zebakh  Numero de la table : 3  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Jazouli Jazouli  Numero de la table : 4  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Barrou Barrou  Numero de la table : 5  Date d'affectation : 6/12/2022 12:00:00 AM
+Serveur : Abegig Abegig  Numero de la table : 6  Date d'affectation : 6/12/2022 12:00:00 AM
+
+ ********************************************* 
+Serveur : Abegig Abegig  Numero de la table : 1  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Zebakh Zebakh  Numero de la table : 2  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Barrou Barrou  Numero de la table : 3  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Berbar Berbar  Numero de la table : 4  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Raghli Raghli  Numero de la table : 5  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Jazouli Jazouli  Numero de la table : 6  Date d'affectation : 6/13/2022 12:09:39 AM
+
+ ********************************************* 
+Serveur : Abegig Abegig  Numero de la table : 1  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Zebakh Zebakh  Numero de la table : 2  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Barrou Barrou  Numero de la table : 3  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Berbar Berbar  Numero de la table : 4  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Raghli Raghli  Numero de la table : 5  Date d'affectation : 6/13/2022 12:09:39 AM
+Serveur : Jazouli Jazouli  Numero de la table : 6  Date d'affectation : 6/13/2022 12:09:39 AM
+
+ ********************************************* 
